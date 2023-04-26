@@ -16,7 +16,7 @@ export const Play = ({ setChoice }) => {
     <>
     <div className="play">
 
-    <img src={Triangle} className='triangle' />
+    <img src={Triangle} alt='traingle' className='triangle' />
       <div className="items">
 
         <Link to="game">
